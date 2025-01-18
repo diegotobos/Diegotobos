@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Diego Tobos<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/114108005?)" style="border-radius:50%;">
+    <img width="200" src="https://avatars.githubusercontent.com/u/114108005?)" style="border-radius: 50%; object-fit: cover;">
 </p>
 
 <div>
