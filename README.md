@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Diego Tobos<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
-    <img width="200" src="blob:https://web.whatsapp.com/c47d1108-b5f8-4bd2-a24a-02ac197a9232">
+    <img width="200" src="[blob:https://web.whatsapp.com/c47d1108-b5f8-4bd2-a24a-02ac197a9232](https://photos.fife.usercontent.google.com/pw/AP1GczNWwCioeXLm-doZ2j1jBFyiVS8PaD_p21OfIXgpwunmnyagwbTUUAMY=w455-h607-s-no?authuser=0)">
 </p>
 
 <div>
