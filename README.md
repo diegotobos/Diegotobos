@@ -14,3 +14,7 @@
     <br>
 📫 Reach me at <a href="dixander05@gmail.com">dixander05@gmail.com</a><br>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@DiegotobosC/30-nites-of-code)  
+  ![@DiegotobosC #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DiegotobosC)
+
